@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+#zagolovok{
+    text-align: center;
+}
+
+.bg-yellow{
+    background: #f2dcff;
+    border-radius: 20px;
+    padding: 0px 30% 0px 30%;
+    /* box-shadow: 4px 4px 4px;
+    rgba (0,0,0,025); */
+}
+.bg-green{
+    background: #d5daff;
+    border-radius: 20px;
+    
+    /* box-shadow: 4px 4px 4px;
+    rgba (0,0,0,025); */
+}
+.bg-red{
+    background: #ffe5e5;
+    border-radius: 20px;
+    /* box-shadow: 4px 4px 4px;
+    rgba (0,0,0,025); */
+}
+
+body{
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    max-width: 750px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.avatar{
+    border-radius: 20px;
+    width: 200px;
+    /* box-shadow: 4px 4px 4px;
+    rgba (0,0,0,025); */
+}
+
+.container h4{
+margin: 0;
+}
+
+.container p{
+    color: #86898f;
+    margin: 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.info {
+   display: flex; 
+}
+
+.info-text{
+    margin-left: 40px;
+}
+
+.aims{
+    margin-top: 31px;
+    padding: 9px 0 9px 0;
+}
+.aims h2{
+margin: 18px;
+text-align: center;
+}
+
+.aims li{
+    color: #86898f;
+    margin: 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.time{
+    margin-top: 31px;
+    padding: 9px 0 9px 0;
+}
+.time h2{
+    text-align: center;
+}
+
+.tabTime{
+    font-weight: bold;
+    color: #86898f;
+    width: 100%;
+    padding: 0px 30% 0px 30%;
+}
+
+.awards{
+    margin-top: 31px;
+    padding: 9px 15% 9px 15%;
+}
+
+.awards h2{
+text-align: center;
+}
+.awards table{
+    width: 100%;
+}
+.awards tr:nth-child(1){
+    font-weight: bold;
+    color: #0f141e;
+    width: 100%;
+}
+.awards tr:nth-child(2){
+    font-weight: bold;
+    color: #86898f;
+    width: 100%;
+}
+.awards tr:nth-child(3){
+    font-weight: bold;
+    color: #86898f;
+    width: 100%;
+}
+
+.social{
+    margin-top: 31px;
+    text-align: center;
+}
+.social{
+    padding: 9px 0 9px 0;
+    margin-bottom: 32px;
+}
+.ovary{
+    padding: 9px 0 9px 0;
+}
+.ovary h2{
+text-align: center;
+}
